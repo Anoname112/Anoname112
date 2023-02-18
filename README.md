@@ -1,4 +1,4 @@
-<div style="float: left; width: 500px;"
+<div style="float: left; width: 500px; display: inline; padding: 5px; background-color: #aaa;">
    ## Mochi Platformer
    <div>
       https://anoname112.github.io/Mochi-Platformer/
@@ -7,7 +7,7 @@
       <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="250">
    </a>
 </div>
-<div style="float: left; width: 500px;"
+<div style="float: left; width: 500px; display: inline; padding: 5px; background-color: #aaa;">
    ## Mochi Platformer
    <div>
       https://anoname112.github.io/Mochi-Platformer/
