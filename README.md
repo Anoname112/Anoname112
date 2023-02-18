@@ -1,7 +1,7 @@
 ## Mochi Platformer
 https://anoname112.github.io/Mochi-Platformer/
 <a href="https://anoname112.github.io/Mochi-Platformer/">
-   <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="500">
+   <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="300">
 </a>
 
 
