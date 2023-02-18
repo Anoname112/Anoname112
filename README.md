@@ -30,7 +30,7 @@
    https://anoname112.github.io/Game-of-Life/
 </div>
 
-### A*
+### A Star
 <a href="https://anoname112.github.io/A-Star/">
    <img src="https://raw.githubusercontent.com/Anoname112/A-Star/main/ss.png" title="A*" height="250">
 </a>
