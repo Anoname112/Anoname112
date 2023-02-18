@@ -1,9 +1,12 @@
-### Hi there 👋
+### Mochi Platformer
+https://anoname112.github.io/Mochi-Platformer/
+<img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" alt="Mochi Platformer" height="500">
 
-<img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" alt="*" width="500">
 
 <!--
 **Anoname112/Anoname112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
