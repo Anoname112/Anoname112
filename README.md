@@ -1,21 +1,10 @@
-<div style="float: left; width: 500px; display: inline; padding: 5px; background-color: #aaa;">
-   ## Mochi Platformer
-   <div>
-      https://anoname112.github.io/Mochi-Platformer/
-   </div>
-   <a href="https://anoname112.github.io/Mochi-Platformer/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="250">
-   </a>
+## Mochi Platformer
+<div>
+   https://anoname112.github.io/Mochi-Platformer/
 </div>
-<div style="float: left; width: 500px; display: inline; padding: 5px; background-color: #aaa;">
-   ## Mochi Platformer
-   <div>
-      https://anoname112.github.io/Mochi-Platformer/
-   </div>
-   <a href="https://anoname112.github.io/Mochi-Platformer/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="250">
-   </a>
-</div>
+<a href="https://anoname112.github.io/Mochi-Platformer/">
+   <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="250">
+</a>
 
 <!--
 **Anoname112/Anoname112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
