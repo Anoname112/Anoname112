@@ -1,10 +1,11 @@
-## Mochi Platformer
+<details><summary>Mochi Platformer</summary>
 <a href="https://anoname112.github.io/Mochi-Platformer/">
    <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="250">
 </a>
 <div>
    https://anoname112.github.io/Mochi-Platformer/
 </div>
+</details>
 
 ## Growlithe
 <a href="https://anoname112.github.io/Growlithe/">
