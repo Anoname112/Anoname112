@@ -1,4 +1,4 @@
-## Personal projects I'm currently working on
+### Personal projects I'm currently working on
 <details>
    <summary>Mochi Platformer</summary>
    <a href="https://anoname112.github.io/Mochi-Platformer/">
