@@ -48,7 +48,7 @@ I love programming
    </div>
 </details>
 
-<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Support me on Trakteer','#be1e2d','https://trakteer.id/anoname112','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
+<script type='text/javascript' src="https://cdn.trakteer.id/js/embed/trbtn.min.js"></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Support me on Trakteer','#be1e2d','https://trakteer.id/anoname112','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
 
 <!--
 **Anoname112/Anoname112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
