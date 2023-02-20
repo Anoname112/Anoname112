@@ -1,5 +1,5 @@
 ### Hi there 👋
-I love programming
+I love programming, video games and animations
 
 ### Personal projects I'm currently working on
 <details>
