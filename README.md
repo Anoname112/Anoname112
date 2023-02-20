@@ -1,5 +1,5 @@
 ### Hi there 👋
-I love programming and created this account to share some of my static web projects I made
+I love programming
 
 ### Personal projects I'm currently working on
 <details>
