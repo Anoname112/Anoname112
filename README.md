@@ -1,3 +1,6 @@
+### Hi there 👋
+I love programming and created this account to share some of my static web projects I made
+
 ### Personal projects I'm currently working on
 <details>
    <summary>Mochi Platformer</summary>
