@@ -48,7 +48,7 @@ I love programming, video games and animations
    </div>
 </details>
 <div style="text-align: center;">
-   <a href="https://trakteer.id/anoname112" target="_blank">
+   <a href="https://teer.id/anoname112" target="_blank">
       <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border: 0px; height: 40px;" title="Support me on Trakteer">
    </a>
 </div>
