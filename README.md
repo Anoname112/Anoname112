@@ -1,5 +1,5 @@
 ### Hi there 👋
-I love programming, video games and animations
+I love programming, video games and animations. Other than converting coffie to codes, I also make videos on YouTube: https://www.youtube.com/@YukimuraFanForever
 
 ### Personal projects I'm currently working on
 <details>
