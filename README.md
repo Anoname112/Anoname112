@@ -1,7 +1,7 @@
 ### Hi there 👋
 I love programming, video games and animations. Other than converting coffee to codes, I also make videos on YouTube: https://www.youtube.com/@Anoname112
 
-### Personal projects I'm currently working on
+### Personal projects I'm currently working on:
 <details>
    <summary>Mochi Platformer</summary>
    <a href="https://anoname112.github.io/Mochi-Platformer/">
