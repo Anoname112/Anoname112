@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 My name is Anoname112, I love programming and video games. Other than converting coffee to codes, I also make videos on YouTube: https://www.youtube.com/@Anoname112
 
 ### Personal projects I'm currently working on:
