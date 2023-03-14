@@ -11,6 +11,7 @@ My name is Anoname112, I love programming and video games. Other than converting
       https://anoname112.github.io/Mochi-Platformer/
    </div>
 </details>
+
 <details>
    <summary>Growlithe</summary>
    <a href="https://anoname112.github.io/Growlithe/">
@@ -20,6 +21,7 @@ My name is Anoname112, I love programming and video games. Other than converting
       https://anoname112.github.io/Growlithe/
    </div>
 </details>
+
 <details>
    <summary>Memory</summary>
    <a href="https://anoname112.github.io/Memory/">
@@ -29,6 +31,7 @@ My name is Anoname112, I love programming and video games. Other than converting
       https://anoname112.github.io/Memory/
    </div>
 </details>
+
 <details>
    <summary>Game of Life</summary>
    <a href="https://anoname112.github.io/Game-of-Life/">
@@ -38,6 +41,7 @@ My name is Anoname112, I love programming and video games. Other than converting
       https://anoname112.github.io/Game-of-Life/
    </div>
 </details>
+
 <details>
    <summary>A Star</summary>
    <a href="https://anoname112.github.io/A-Star/">
@@ -48,7 +52,7 @@ My name is Anoname112, I love programming and video games. Other than converting
    </div>
 </details>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anoname112)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anoname112&theme=tokyonight)
 
 <div style="text-align: center;">
    <a href="https://teer.id/anoname112" target="_blank">
