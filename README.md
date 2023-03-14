@@ -47,6 +47,9 @@ My name is Anoname112, I love programming and video games. Other than converting
       https://anoname112.github.io/A-Star/
    </div>
 </details>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anoname112)](https://github.com/Anoname112/github-readme-stats)
+
 <div style="text-align: center;">
    <a href="https://teer.id/anoname112" target="_blank">
       <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border: 0px; height: 40px;" title="Support me on Trakteer">
