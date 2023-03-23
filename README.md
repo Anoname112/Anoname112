@@ -5,7 +5,7 @@ My name is Anoname112, I love programming and video games. Other than converting
 <details>
    <summary>Mochi Platformer</summary>
    <a href="https://anoname112.github.io/Mochi-Platformer/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="200px">
+      <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="230px">
    </a>
    <div>
       https://anoname112.github.io/Mochi-Platformer/
