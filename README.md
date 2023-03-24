@@ -1,7 +1,7 @@
 ### Hi there! 👋
 My name is Anoname112. My passion includes programming and video games. Other than converting coffies to codes, I also make videos on YouTube: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
 
-### Personal projects I'm currently working on:
+### Some of personal projects I'm currently working on:
 <details>
    <summary>Mochi Platformer</summary>
    <a href="https://anoname112.github.io/Mochi-Platformer/">
