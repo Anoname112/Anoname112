@@ -14,7 +14,7 @@ My name is Anoname112, I love programming and video games. Other than converting
 <details>
    <summary>Growlithe</summary>
    <a href="https://anoname112.github.io/Growlithe/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Growlithe/main/ss.png" title="Growlithe" height="280px">
+      <img src="https://raw.githubusercontent.com/Anoname112/Growlithe/main/ss.png" title="Growlithe" height="270px">
    </a>
    <div>
       https://anoname112.github.io/Growlithe/
@@ -23,7 +23,7 @@ My name is Anoname112, I love programming and video games. Other than converting
 <details>
    <summary>Memory</summary>
    <a href="https://anoname112.github.io/Memory/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Memory/main/ss.png" title="Memory" height="280px">
+      <img src="https://raw.githubusercontent.com/Anoname112/Memory/main/ss.png" title="Memory" height="270px">
    </a>
    <div>
       https://anoname112.github.io/Memory/
@@ -32,7 +32,7 @@ My name is Anoname112, I love programming and video games. Other than converting
 <details>
    <summary>Game of Life</summary>
    <a href="https://anoname112.github.io/Game-of-Life/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Game-of-Life/main/ss.png" title="Game of Life" height="280px">
+      <img src="https://raw.githubusercontent.com/Anoname112/Game-of-Life/main/ss.png" title="Game of Life" height="270px">
    </a>
    <div>
       https://anoname112.github.io/Game-of-Life/
@@ -41,7 +41,7 @@ My name is Anoname112, I love programming and video games. Other than converting
 <details>
    <summary>A Star</summary>
    <a href="https://anoname112.github.io/A-Star/">
-      <img src="https://raw.githubusercontent.com/Anoname112/A-Star/main/ss.png" title="A*" height="280px">
+      <img src="https://raw.githubusercontent.com/Anoname112/A-Star/main/ss.png" title="A*" height="270px">
    </a>
    <div>
       https://anoname112.github.io/A-Star/
