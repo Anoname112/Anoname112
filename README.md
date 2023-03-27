@@ -1,5 +1,5 @@
 ### Hi there! 👋
-My name is Anoname112. My passions includes programming and video games. Other than converting coffies to codes, I also make videos on YouTube: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
+My name is Anoname112. Other than converting coffies to codes, I also make videos on YouTube: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
 
 ### Some of personal projects I'm currently working on:
 <details>
