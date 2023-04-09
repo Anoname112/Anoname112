@@ -2,7 +2,7 @@
 My name is Anoname112, my passion includes game dev. Other than converting coffee to codes, I also make videos on my YouTube channel: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=c,cs,java,py,arduino,html,css,js,jquery,sass,mysql,php,vercel&theme=dark" height="30px"> 
+<img src="https://skillicons.dev/icons?i=c,cs,java,py,arduino,html,css,js,jquery,sass,mysql,php,nodejs,vercel&theme=dark" height="30px"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoname112&layout=compact&theme=tokyonight&title_color=C9D1D9&langs_count=4" height="120px">
 
 ## Personal projects I'm currently working on:
