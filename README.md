@@ -1,11 +1,11 @@
 ## Hi there! 👋
 My name is Anoname112, my passion includes game dev. Other than converting coffee to codes, I also make videos on my YouTube channel: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
 
-## Tech
-<img src="https://skillicons.dev/icons?i=c,cs,java,arduino,html,css,js,sass,mysql,php&theme=dark" alt="Tech Stack" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoname112&layout=compact&theme=tokyonight&langs_count=4" />
+## Have worked in
+<img src="https://skillicons.dev/icons?i=c,cs,java,arduino,html,css,js,sass,mysql,php&theme=dark" height="20px"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoname112&layout=compact&theme=tokyonight&langs_count=4">
 
-## Some of personal projects I'm currently working on:
+## Personal projects I'm currently working on:
 <details>
    <summary>Mochi Platformer</summary>
    <a href="https://anoname112.github.io/Mochi-Platformer/">
