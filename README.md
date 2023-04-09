@@ -2,9 +2,8 @@
 My name is Anoname112, my passion includes game dev. Other than converting coffies to codes, I also make videos on my YouTube channel: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
 
 ## Tech
-<img src="https://skillicons.dev/icons?i=c,cs,java,arduino,html,css,sass,js,mysql,php" alt="Tech Stack" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoname112&layout=compact&theme=tokyonight&langs_count=6" />
-
+<img src="https://skillicons.dev/icons?i=c,cs,java,arduino,html,css,sass,js,mysql,php?theme=dark" alt="Tech Stack" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoname112&layout=compact&theme=tokyonight&langs_count=5" />
 
 ## Some of personal projects I'm currently working on:
 <details>
