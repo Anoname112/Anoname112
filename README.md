@@ -3,7 +3,7 @@ My name is Anoname112, my passion includes game dev. Other than converting coffe
 
 ## Have worked in
 <img src="https://skillicons.dev/icons?i=c,cs,java,arduino,html,css,js,sass,mysql,php&theme=dark" height="20px"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoname112&layout=compact&theme=tokyonight&langs_count=4" height="50px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoname112&layout=compact&theme=tokyonight&title_color=FFFFFF&langs_count=4" height="50px">
 
 ## Personal projects I'm currently working on:
 <details>
