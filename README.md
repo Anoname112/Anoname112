@@ -1,5 +1,5 @@
 ## Hi there! 👋
-My name is Anoname112, my passion includes game dev. Other than converting coffee to codes, I also make videos on my YouTube channel: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
+My name is Anoname112, my passion includes tech and game dev. Other than converting coffee to codes, I also make videos on my YouTube channel: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=c,cs,java,py,arduino,html,css,js,jquery,sass,mysql,php,nodejs,vercel&theme=dark" height="30px"> 
