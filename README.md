@@ -3,7 +3,6 @@ My name is Anoname112, my passion includes tech and game dev. Other than convert
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=c,cs,java,py,arduino,html,css,js,jquery,sass,mysql,php,nodejs,vercel&theme=dark" height="30px"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoname112&layout=compact&theme=tokyonight&title_color=C9D1D9&langs_count=4" height="120px">
 
 ## Personal projects I'm currently working on:
 <details>
