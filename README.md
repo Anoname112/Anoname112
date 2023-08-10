@@ -1,10 +1,19 @@
 ## Hi there! 👋
-My name is Anoname112, my passion includes tech and game dev. Other than converting coffee to codes, I also make videos on my YouTube channel: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
+My name is Anoname112. I'm passionate about tech and game dev. In addition to converting coffee to codes, I also make videos on my YouTube channel: <a href="https://www.youtube.com/@Anoname112">@Anoname112</a>
 
-## Skills
+## 🌱 I’m currently learning
 <img src="https://skillicons.dev/icons?i=c,cs,java,py,arduino,html,css,js,jquery,sass,mysql,php,nodejs,vercel&theme=dark" height="30px"> 
 
-## Personal projects I'm currently working on:
+## 🔭 I’m currently working on
+<details>
+   <summary>Three Kingdoms</summary>
+   <a href="https://anoname112.github.io/Three-Kingdoms/">
+      <img src="https://raw.githubusercontent.com/Anoname112/Three-Kingdoms/main/ss.png" title="Three Kingdoms" height="260px">
+   </a>
+   <div>
+      https://anoname112.github.io/Three-Kingdoms/
+   </div>
+</details>
 <details>
    <summary>Mochi Platformer</summary>
    <a href="https://anoname112.github.io/Mochi-Platformer/">
@@ -30,15 +39,6 @@ My name is Anoname112, my passion includes tech and game dev. Other than convert
    </a>
    <div>
       https://anoname112.github.io/Memory/
-   </div>
-</details>
-<details>
-   <summary>Game of Life</summary>
-   <a href="https://anoname112.github.io/Game-of-Life/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Game-of-Life/main/ss.png" title="Game of Life" height="260px">
-   </a>
-   <div>
-      https://anoname112.github.io/Game-of-Life/
    </div>
 </details>
 <details>
