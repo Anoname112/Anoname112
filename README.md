@@ -4,7 +4,7 @@ My name is Anoname112. I'm passionate about tech and game dev. I love creating g
 I'm always looking for new ways to learn and grow, so I'm excited to connect with other tech and game dev enthusiasts. If you have any questions or feedback, please feel free to reach out to me.
 
 ## 🌱 I’m currently learning
-<img src="https://skillicons.dev/icons?i=c,cs,java,py,arduino,html,css,js,jquery,sass,mysql,php,nodejs,vercel&theme=dark" height="30px"> 
+<img src="https://skillicons.dev/icons?i=c,cs,java,py,arduino,html,css,js,jquery,bootstrap,sass,mysql,php,nodejs,vercel&theme=dark" height="30px"> 
 
 ## 🔭 I’m currently working on
 <details>
