@@ -53,12 +53,6 @@ I'm always looking for new ways to learn and grow, so I'm excited to connect wit
    </div>
 </details>
 
-<div style="text-align: center;">
-   <a href="https://teer.id/anoname112" target="_blank">
-      <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border: 0px; height: 40px;" title="Support me on Trakteer">
-   </a>
-</div>
-
 <!--
 **Anoname112/Anoname112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -72,4 +66,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div style="text-align: center;">
+   <a href="https://teer.id/anoname112" target="_blank">
+      <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border: 0px; height: 40px;" title="Support me on Trakteer">
+   </a>
+</div>
 -->
