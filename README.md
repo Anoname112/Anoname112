@@ -10,7 +10,7 @@ I'm always looking for new ways to learn and grow, so I'm excited to connect wit
 <details>
    <summary>Three Kingdoms</summary>
    <a href="https://anoname112.github.io/Three-Kingdoms/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Three-Kingdoms/main/ss.png" title="Three Kingdoms" height="260px">
+      <img src="https://raw.githubusercontent.com/Anoname112/Three-Kingdoms/main/ss.png" title="Three Kingdoms">
    </a>
    <div>
       https://anoname112.github.io/Three-Kingdoms/
@@ -19,7 +19,7 @@ I'm always looking for new ways to learn and grow, so I'm excited to connect wit
 <details>
    <summary>Mochi Platformer</summary>
    <a href="https://anoname112.github.io/Mochi-Platformer/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer" height="260px">
+      <img src="https://raw.githubusercontent.com/Anoname112/Mochi-Platformer/main/ss.png" title="Mochi Platformer">
    </a>
    <div>
       https://anoname112.github.io/Mochi-Platformer/
@@ -28,7 +28,7 @@ I'm always looking for new ways to learn and grow, so I'm excited to connect wit
 <details>
    <summary>Growlithe</summary>
    <a href="https://anoname112.github.io/Growlithe/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Growlithe/main/ss.png" title="Growlithe" height="260px">
+      <img src="https://raw.githubusercontent.com/Anoname112/Growlithe/main/ss.png" title="Growlithe">
    </a>
    <div>
       https://anoname112.github.io/Growlithe/
@@ -37,7 +37,7 @@ I'm always looking for new ways to learn and grow, so I'm excited to connect wit
 <details>
    <summary>Memory</summary>
    <a href="https://anoname112.github.io/Memory/">
-      <img src="https://raw.githubusercontent.com/Anoname112/Memory/main/ss.png" title="Memory" height="260px">
+      <img src="https://raw.githubusercontent.com/Anoname112/Memory/main/ss.png" title="Memory">
    </a>
    <div>
       https://anoname112.github.io/Memory/
@@ -46,7 +46,7 @@ I'm always looking for new ways to learn and grow, so I'm excited to connect wit
 <details>
    <summary>A Star</summary>
    <a href="https://anoname112.github.io/A-Star/">
-      <img src="https://raw.githubusercontent.com/Anoname112/A-Star/main/ss.png" title="A*" height="260px">
+      <img src="https://raw.githubusercontent.com/Anoname112/A-Star/main/ss.png" title="A*">
    </a>
    <div>
       https://anoname112.github.io/A-Star/
